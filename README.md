@@ -4,4 +4,4 @@
 <p>Predicting whether the customer continues with the bank or not based on various factors and transactions</p>
 <h1><strong>Key Highlights:</strong></h1>
 <p>* Accuracy of <strong>86%</strong></p>
-<p>* XGBOOST (<italic>RandomisedSearchCV</italic>)</p>
+<p>* XGBOOST (<italics>RandomisedSearchCV</italics>)</p>
